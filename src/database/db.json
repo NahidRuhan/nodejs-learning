@@ -1,0 +1,13 @@
+[
+  { "id": 2, "name": "Mechanical Keyboard", "price": 89.5 },
+  { "id": 3, "name": "Monitor Stand", "price": 49.99 },
+  { "id": 4, "name": "USB-C Hub", "price": 45.2 },
+  { "id": 5, "name": "Ergonomic Office Chair", "price": 199.99 },
+  { "id": 6, "name": "LED Desk Lamp", "price": 22.15 },
+  { "id": 7, "name": "Laptop Sleeve 15-inch", "price": 18.5 },
+  { "id": 8, "name": "Noise Cancelling Headphones", "price": 150 },
+  { "id": 9, "name": "HD Webcam 1080p", "price": 55.99 },
+  { "id": 10, "name": "Extended Mouse Pad", "price": 12.99 },
+  { "id": 1778503356743, "name": "Steam Controller", "price": 100 },
+  { "id": 1778503405392, "name": "Dual Sense Edge", "price": 200 }
+]
