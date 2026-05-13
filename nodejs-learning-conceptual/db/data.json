@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "customer": "Alice Smith",
+    "quantity": 2,
+    "food": "Cheeseburger",
+    "price": 12.5
+  },
+  {
+    "id": "2",
+    "customer": "Bob Johnson",
+    "quantity": 1,
+    "food": "Pepperoni Pizza",
+    "price": 18
+  },
+  {
+    "id": "3",
+    "customer": "Charlie Brown",
+    "quantity": 3,
+    "food": "Beef Tacos",
+    "price": 9.75
+  },
+  {
+    "id": "4",
+    "customer": "Diana Prince",
+    "quantity": 1,
+    "food": "Caesar Salad",
+    "price": 11.2
+  },
+  {
+    "id": "5",
+    "customer": "Evan Wright",
+    "quantity": 4,
+    "food": "Spicy Tuna Roll",
+    "price": 24.5
+  },
+  {
+    "id": "6",
+    "customer": "Fiona Gallagher",
+    "quantity": 2,
+    "food": "Spaghetti Bolognese",
+    "price": 15
+  },
+  {
+    "id": "7",
+    "customer": "George Miller",
+    "quantity": 1,
+    "food": "Ribeye Steak",
+    "price": 35
+  },
+  {
+    "id": "8",
+    "customer": "Hannah Abbott",
+    "quantity": 5,
+    "food": "Vanilla Ice Cream",
+    "price": 4.5
+  },
+  {
+    "id": "9",
+    "customer": "Ian Malcolm",
+    "quantity": 2,
+    "food": "Turkey Club Sandwich",
+    "price": 8.5
+  },
+  {
+    "id": "1778705944372",
+    "customer": "Nahid Ruhan",
+    "quantity": 2,
+    "food": "Turkey Doner",
+    "price": 5.5
+  }
+]
